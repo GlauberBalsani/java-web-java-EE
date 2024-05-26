@@ -19,14 +19,5 @@
     <servlet-name>Controller</servlet-name>
     <url-pattern>/Controller</url-pattern>
   </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>Teste</display-name>
-    <servlet-name>Teste</servlet-name>
-    <servlet-class>controller.Teste</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>Teste</servlet-name>
-    <url-pattern>/Teste</url-pattern>
-  </servlet-mapping>
+  
 </web-app>
